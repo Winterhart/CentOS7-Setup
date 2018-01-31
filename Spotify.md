@@ -1,6 +1,9 @@
 
+
 # Installation of Spotify
 
+
+![enter image description here](https://i2-prod.mirror.co.uk/incoming/article2878879.ece/ALTERNATES/s615/spotifynew_large_verge_medium_landscape.jpg)
 Install the COPR plugin and EPEL
 
     $ sudo yum install yum-plugin-copr epel-release
@@ -24,6 +27,9 @@ Install GNOME Software snap plugin, note that GNOME Software gets replaced in th
 ### How do I run spotify... 
 
 run 'spotify' in your terminal
+
+### (OPTIONAL) Create Icon 
+Create an icon to launch Spotify... (TUTORIAL WILL BE ADDED SOON)
 
 Tutorial from: https://forum.snapcraft.io/t/install-snapd-on-centos/1495/20
 
