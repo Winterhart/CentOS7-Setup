@@ -12,7 +12,6 @@ The two main OS are going to be:
 
 Inside CentOS 7, I am going to create a virtual machine that will be used as a development environment for Linux project.
 
-I am still not 100% convinced to take the Windows 10 setup in a virtual machine. 
 
 ## Current Built
 
