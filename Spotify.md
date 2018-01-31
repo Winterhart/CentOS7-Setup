@@ -1,10 +1,16 @@
 
 
+
 # Installation of Spotify
 
 
 ![enter image description here](https://i2-prod.mirror.co.uk/incoming/article2878879.ece/ALTERNATES/s615/spotifynew_large_verge_medium_landscape.jpg)
-Install the COPR plugin and EPEL
+
+
+----------
+
+
+#####  Install the COPR plugin and EPEL
 
     $ sudo yum install yum-plugin-copr epel-release
 
