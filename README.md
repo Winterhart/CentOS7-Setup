@@ -1,4 +1,6 @@
 # CentOS7-Setup
+![enter image description here](https://i.imgur.com/7ZdMO5G.png)
+
 The goal of this repo is to provide information to setup a development workstation for Software Developer.
 
 ## Overall idea
